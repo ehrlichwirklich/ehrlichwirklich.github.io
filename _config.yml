@@ -18,13 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Warriors Of Light Atlanta
-email: support@warriorsoflight.info
+title: Anissa Alexander
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Warriors of Light Final Fantasy TCG community is fan led community centered around the 
-  Final Fantasy Trading Card Game. Operating out of north east Atlanta, the group primarily 
-  meets at Lavel Up store locations and via Discord. They are not officailly affiliated with 
-  Square Enix or Level Up Game stores. 
+  Anissa Alexander is a reader, programmer and avid fiber artist 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

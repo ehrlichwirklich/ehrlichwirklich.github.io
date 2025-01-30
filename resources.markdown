@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: page
-feature_image: "/assets/images/wol_logo_transparent.png"
+feature_image: "/assets/images/vandy_trees.jpg"
 ---
 
 
