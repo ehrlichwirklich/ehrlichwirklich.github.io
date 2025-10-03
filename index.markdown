@@ -4,6 +4,5 @@ layout: page
 feature_image: "/assets/images/vandy_trees.jpg"
 ---
 
-Anissa Alexander is a librarian based in the Atlanta Metropolitian area. She is interesd in promoting digital literacy and learning new skills. 
-
+This site is the culumination of all my interests and professional experience. I have always had interests in art and technology, with a more recent pivot into library science.
 ---
