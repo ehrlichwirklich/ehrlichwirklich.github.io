@@ -6,3 +6,8 @@ The main features are:
 * Open Source Projects (planned/in-progress)
 * What I am currently reading?
 
+Reference:
+
+The webpage is just vanilla [Alembic] (https://jekyllthemes.io/theme/alembic)
+
+
