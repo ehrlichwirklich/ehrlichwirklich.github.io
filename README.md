@@ -8,6 +8,6 @@ The main features are:
 
 Reference:
 
-The webpage is just vanilla [Alembic] (https://jekyllthemes.io/theme/alembic)
+The webpage is just vanilla [Alembic](https://jekyllthemes.io/theme/alembic)
 
 

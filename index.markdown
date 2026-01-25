@@ -1,7 +1,6 @@
 ---
 title: Welcome
 layout: page
-aside: true
 feature_text: "books. blogs. board games." 
 ---
 
