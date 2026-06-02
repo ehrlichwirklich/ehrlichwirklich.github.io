@@ -1,7 +1,7 @@
 title: Anissa Alexander
 email: 
 description: >- # this means to ignore newlines until "baseurl:"; YAML block Indentation and Block Chomping Indicator
-  This is a repository of work that I am interested in and want to share with the world at large.
+  This is a repository of my interests and writings to share with the world at large.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anissa-alexander.me" # the base hostname & protocol for your site, e.g. http://example.com
 
